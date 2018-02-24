@@ -1,0 +1,33 @@
+	�RVORE BIN�RIA - 22/03 - ESTRUTURA DE DADOS
+
+01 - Arvore � um tipo de grafo que n�o forma ciclo
+
+02 - O n� raiz � o n� que n�o tem pai
+
+03 - O n� folha � o n� que n�o tem filho
+
+04 - O n� que n�o � raiz da �rvore � um n� que tem pai
+
+05 - O n� raiz da sub-�rvore � um n� que tem a raiz como "pai"
+
+06 - Uma folha n�o pode ter dois pais
+
+07 - O que n�o for folha � um n� raiz (N� direto da raiz ou sub-raiz)
+
+08 - A �rvore � separada por n�veis que s�o as "tuplas" da �rvore que por esses n�veis da pra se saber a quantidade de elementos nela inserida
+
+09 - A altura da �rvore � medida pela quantidade de n�s nas arestas (Altura de um n� at� a folha mais distante)
+
+10 - Profundidade � a dist�ncia do n� at� a raiz
+
+11 - �rvore bin�ria tem 0, 1 ou 2 filhos
+
+12 - �rvore bin�ria pode ser ou n�o estritamente bin�ria
+
+13 - Existem �rvores completamente bin�rias, estritamente e cheias
+
+14 - Pra ser cheia todas as folhas precisam estar no �ltimo n�vel
+
+15 - Completa se tiver folhas no �ltimo ou pen�ltimo n�vel
+
+16 - Estritamente bin�ria tem 0 ou 2 filhos
